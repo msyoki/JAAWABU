@@ -7985,7 +7985,7 @@ body {
   font-size: 16px;
   line-height: 1.8;
   font-weight: 400;
-  color: #999999; }
+  color: rgb(15, 15, 15); }
   body.menu-show {
     overflow: hidden;
     position: fixed;
@@ -8012,7 +8012,7 @@ h1, h2, h3, h4, h5,
   color: #ff7900ff!important; }
 
 .ftco-navbar-light {
-  background: transparent !important;
+  background: rgb(98, 25, 64) !important;
   position: absolute;
   top: 0;
   left: 0;
